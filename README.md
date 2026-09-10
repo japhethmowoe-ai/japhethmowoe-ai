@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Japheth Mowoe 👋
 
-<!--
-**japhethmowoe-ai/japhethmowoe-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior SOC Analyst | Blue Team | Linux | Networking | Threat Detection
 
-Here are some ideas to get you started:
+I'm an aspiring **Junior SOC Analyst** transitioning into cybersecurity with hands-on experience through **TryHackMe**, Linux investigations, networking, and security-focused Python scripting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* 🛡️ Blue Team & SOC Operations
+* 🐧 Linux Security
+* 🌐 Network Traffic Analysis
+* 📜 Log Analysis
+* 🐍 Python Automation
+
+## Featured Projects
+
+* Treasure – React Native Movie Discovery App
+* Linux Log Investigation (TryHackMe)
+* Network Traffic Analysis
+* Python Security Scripts (coming soon)
+
+## Technical Skills
+
+* **Security:** Threat Analysis, Incident Response, Log Analysis, SIEM Fundamentals
+* **Networking:** TCP/IP, DNS, HTTP/HTTPS, SSL/TLS, SSH
+* **Programming:** Python, JavaScript, HTML, CSS
+* **Tools:** Git, VS Code, TryHackMe
+
+## Connect with Me
+
+* **LinkedIn:** linkedin.com/in/japheth-mowoe-b8058a397
+* **TryHackMe:** tryhackme.com/p/ps55
